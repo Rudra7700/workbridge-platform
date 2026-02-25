@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "dashboard": "Dashboard",
+        "profile": "Profile",
+        "documents": "Documents",
+        "hireRequests": "Hire Requests",
+        "earnings": "Earnings",
+        "aiChat": "AI Chat",
+        "findJobs": "Find Jobs",
+        "activeHires": "Active Hires",
+        "completed": "Completed",
+        "postAJob": "Post a Job",
+        "searchWorkers": "Search Workers",
+        "logout": "Logout",
+        "verified": "Verified",
+        "notVerified": "Not Verified",
+        "overview": "Overview",
+        "totalEarnings": "Total Earnings",
+        "jobsCompleted": "Jobs Completed",
+        "rating": "Rating",
+        "activeJobs": "Active Jobs",
+        "pendingRequests": "Pending Requests",
+        "language": "Language",
+        "applyNow": "Apply Now",
+        "searchBySkill": "Search by skill or location",
+        "skills": "Skills",
+        "experience": "Experience",
+        "wage": "Wage",
+        "location": "Location",
+        "saveProfile": "Save Profile"
+    }
+}

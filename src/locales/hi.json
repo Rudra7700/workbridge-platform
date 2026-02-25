@@ -1,0 +1,32 @@
+{
+    "translation": {
+        "dashboard": "डैशबोर्ड",
+        "profile": "प्रोफ़ाइल",
+        "documents": "कागजात (Documents)",
+        "hireRequests": "काम के अनुरोध",
+        "earnings": "कमाई",
+        "aiChat": "AI चैटबॉट",
+        "findJobs": "काम खोजें",
+        "activeHires": "सक्रिय काम",
+        "completed": "पूरा हुआ",
+        "postAJob": "नया काम डालें",
+        "searchWorkers": "वर्कर खोजें",
+        "logout": "लॉग आउट",
+        "verified": "प्रमाणित",
+        "notVerified": "अग्रणी",
+        "overview": "सारांश",
+        "totalEarnings": "कुल कमाई",
+        "jobsCompleted": "किए गए काम",
+        "rating": "रेटिंग",
+        "activeJobs": "सक्रिय काम",
+        "pendingRequests": "लंबित अनुरोध",
+        "language": "भाषा",
+        "applyNow": "अभी आवेदन दें",
+        "searchBySkill": "कौशल या स्थान से खोजें",
+        "skills": "कौशल (Skills)",
+        "experience": "अनुभव",
+        "wage": "दैनिक मजदूरी (₹)",
+        "location": "स्थान",
+        "saveProfile": "प्रोफ़ाइल सहेजें"
+    }
+}
